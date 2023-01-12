@@ -1,0 +1,20 @@
+.section {
+    padding-top: 10px;
+    
+}
+
+.section__subHeader {
+    color: #041f93;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.section__intrestingItem {
+    color: #08086d;
+    font-weight: 700;
+}
+
+.section__photo {
+    box-shadow: 8px 8px 24px 0px;
+    border-radius: 20px;
+}
