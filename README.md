@@ -6,5 +6,6 @@ This is my first website done as a task within a frontent development online cou
 - CSS
 - JavaScript
 - BEM
+- ES6+ features
 ## Check it out!
 https://kamila2201.github.io/homepage/
