@@ -10,3 +10,4 @@ This is my first website done as a task within a frontent development online cou
 - FlexBox
 ## Check it out!
 https://kamila2201.github.io/homepage/
+![webside animation gif](images/webside-animation.gif)
