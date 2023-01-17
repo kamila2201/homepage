@@ -1,5 +1,7 @@
 .navigation {
-    background-color: #b6b6c0;
+    background-color: #ddd;
+    border-style: solid none;
+    border-color: #535359;
 }
 
 .navigation__list {
